@@ -1,0 +1,31 @@
+# 💣 Bomberman Clone (Unity 2D)
+
+A modern 2D clone of the classic Bomberman arcade game — built using Unity and C#. Players navigate a grid-based level, plant bombs to destroy obstacles, and defeat enemies while avoiding their own explosions.
+
+---
+
+## 🎮 Gameplay Features
+
+- 🔲 **Tile-Based Grid Movement**
+- 💣 **Bomb Placement & Explosion Chain Reactions**
+- 🧠 **Basic Enemy AI (Patrol / Chase)**
+- 🧱 **Destructible and Indestructible Blocks**
+- 🔄 **Level Reset and Win/Lose Conditions**
+- 🎨 Pixel-art style visuals and classic retro vibes
+
+---
+
+## 🛠 Built With
+
+- **Unity 2021.3 LTS** (2D URP Template)
+- **C#**
+- Unity **Tilemap**, **Animator**, **Cinemachine**
+- Aseprite for some custom sprites
+
+---
+
+## 🚀 How to Play
+
+1. Clone this repo or download ZIP
+   ```bash
+   git clone https://github.com/BlueArcade/Bomberman-Clone.git
