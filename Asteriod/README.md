@@ -1,28 +1,32 @@
-# Unity2D
-A curated collection of my 2-dimensional Unity games—built with C#, love for pixel-art, and the relentless urge to iterate, experiment, and learn.
-# 🎮 Unity-2D-Projects
+# 🚀 Asteroids (Unity 2D Game)
 
-Welcome to **Unity-2D-Projects**, the home for every 2-D game I create while mastering Unity’s 2-D tool-set. Each folder is a self-contained project that you can open, study, tweak, and extend.
-
-| Folder | Genre / Theme | Status |
-| ------ | ------------- | ------ |
-| `Bomberman-Clone` | Grid-based arcade action | Complete |
-| `PacMan-Clone` | Maze chase with AI ghosts | Complete |
-
+A classic **Asteroids** arcade-style game recreated in Unity 2D using C#.  
+Control a spaceship, shoot incoming asteroids, and survive as long as you can!
 
 ---
 
-## 🛠  Tech Stack
-* **Unity 2021.3 LTS** (URP 2-D Renderer)
-* **C#** scripting
-* Unity’s Tilemap, Cinemachine, and 2-D Animation packages
-* Git for version control  
-* Aseprite & Photoshop for sprites
+## 🎮 Gameplay Features
+
+- 🚀 **Player-controlled spaceship** with rotation and thrust
+- 🪨 **Randomly spawning asteroids** with varying sizes and speeds
+- 💥 **Projectile shooting mechanics**
+- 🌌 **Screen wrap-around** (objects reappear on the opposite edge)
+- 🎯 **Score tracking** for destroyed asteroids
+- 🔄 **Level restart on game over**
 
 ---
 
-## 🚀 How to Play / Inspect
+## 🛠 Built With
 
-1. **Clone** the repo  
+- **Unity 2021.3 LTS** (2D URP)
+- **C# scripting**
+- Unity’s built-in **2D Physics** and **Input System**
+- Simple shapes & minimal graphics for a retro feel
+
+---
+
+## 🚀 How to Play
+
+1. Clone this repo or download ZIP:
    ```bash
-   git clone https://github.com/BlueArcade/Unity-2D-Projects.git
+   git clone https://github.com/BlueArcade/Asteroids-Unity2D.git
