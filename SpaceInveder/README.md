@@ -1,28 +1,31 @@
-# Unity2D
-A curated collection of my 2-dimensional Unity games—built with C#, love for pixel-art, and the relentless urge to iterate, experiment, and learn.
-# 🎮 Unity-2D-Projects
+# 👾 Space Invader Clone (Unity 2D)
 
-Welcome to **Unity-2D-Projects**, the home for every 2-D game I create while mastering Unity’s 2-D tool-set. Each folder is a self-contained project that you can open, study, tweak, and extend.
-
-| Folder | Genre / Theme | Status |
-| ------ | ------------- | ------ |
-| `Bomberman-Clone` | Grid-based arcade action | Complete |
-| `PacMan-Clone` | Maze chase with AI ghosts | Complete |
-
+A simple 2D remake of the classic **Space Invader** arcade game — created using Unity and C#.  
+Defend Earth by shooting down waves of alien invaders before they reach the bottom of the screen.
 
 ---
 
-## 🛠  Tech Stack
-* **Unity 2021.3 LTS** (URP 2-D Renderer)
-* **C#** scripting
-* Unity’s Tilemap, Cinemachine, and 2-D Animation packages
-* Git for version control  
-* Aseprite & Photoshop for sprites
+## 🎮 Gameplay Features
+
+- 🚀 **Player-controlled spaceship** that moves horizontally
+- 👾 **Alien enemies** moving in formation and descending gradually
+- 💥 **Projectile shooting mechanics**
+- 🎯 **Score tracking system**
+- 🔄 **Game over and restart functionality**
 
 ---
 
-## 🚀 How to Play / Inspect
+## 🛠 Built With
 
-1. **Clone** the repo  
+- **Unity 2021.3 LTS** (2D Core Template)
+- **C# scripting**
+- Unity’s **Sprite Renderer** and **2D Physics**
+- Basic **UI system** for score display
+
+---
+
+## 🚀 How to Play
+
+1. Clone this repository or download ZIP:
    ```bash
-   git clone https://github.com/BlueArcade/Unity-2D-Projects.git
+   git clone https://github.com/BlueArcade/SpaceInvader-Unity2D.git
