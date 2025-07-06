@@ -1,28 +1,30 @@
-# Unity2D
-A curated collection of my 2-dimensional Unity games—built with C#, love for pixel-art, and the relentless urge to iterate, experiment, and learn.
-# 🎮 Unity-2D-Projects
+# ⚡ Pokémon Prototype (Unity 2D)
 
-Welcome to **Unity-2D-Projects**, the home for every 2-D game I create while mastering Unity’s 2-D tool-set. Each folder is a self-contained project that you can open, study, tweak, and extend.
-
-| Folder | Genre / Theme | Status |
-| ------ | ------------- | ------ |
-| `Bomberman-Clone` | Grid-based arcade action | Complete |
-| `PacMan-Clone` | Maze chase with AI ghosts | Complete |
-
+A basic **Pokémon-style prototype** built using Unity and C#.  
+This is an early prototype focusing on **tile-based player movement** and **scene transitions**—without NPCs, battles, or Pokémon catching systems.
 
 ---
 
-## 🛠  Tech Stack
-* **Unity 2021.3 LTS** (URP 2-D Renderer)
-* **C#** scripting
-* Unity’s Tilemap, Cinemachine, and 2-D Animation packages
-* Git for version control  
-* Aseprite & Photoshop for sprites
+## 🎮 Prototype Features
+
+- 🎮 **Tile-based player movement** (step-by-step grid navigation)
+- 🌍 **Top-down environment layout** using Unity’s Tilema
+- 🎨 Basic **sprite animations** for player character
+- Battle System
 
 ---
 
-## 🚀 How to Play / Inspect
+## 🛠 Built With
 
-1. **Clone** the repo  
+- **Unity 2021.3 LTS** (2D URP Template)
+- **C# scripting**
+- Unity **Tilemap** for world building
+- Basic **Animator** for player visuals
+
+---
+
+## 🚀 How to Play
+
+1. Clone this repository or download ZIP:
    ```bash
-   git clone https://github.com/BlueArcade/Unity-2D-Projects.git
+   git clone https://github.com/BlueArcade/Pokemon-Prototype-Unity2D.git
