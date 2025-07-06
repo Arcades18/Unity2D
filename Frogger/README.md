@@ -1,28 +1,31 @@
-# Unity2D
-A curated collection of my 2-dimensional Unity games—built with C#, love for pixel-art, and the relentless urge to iterate, experiment, and learn.
-# 🎮 Unity-2D-Projects
+# 🐸 Frogger Clone (Unity 2D)
 
-Welcome to **Unity-2D-Projects**, the home for every 2-D game I create while mastering Unity’s 2-D tool-set. Each folder is a self-contained project that you can open, study, tweak, and extend.
-
-| Folder | Genre / Theme | Status |
-| ------ | ------------- | ------ |
-| `Bomberman-Clone` | Grid-based arcade action | Complete |
-| `PacMan-Clone` | Maze chase with AI ghosts | Complete |
-
+A fun 2D remake of the classic **Frogger** arcade game — built using Unity and C#.  
+Guide the frog safely across busy roads and dangerous rivers while avoiding obstacles to reach the goal.
 
 ---
 
-## 🛠  Tech Stack
-* **Unity 2021.3 LTS** (URP 2-D Renderer)
-* **C#** scripting
-* Unity’s Tilemap, Cinemachine, and 2-D Animation packages
-* Git for version control  
-* Aseprite & Photoshop for sprites
+## 🎮 Gameplay Features
+
+- 🐸 **Player-controlled frog** with grid-based movement
+- 🚗 **Moving vehicles** as road hazards
+- 🛶 **Floating logs and lily pads** for river crossing
+- 🔄 **Level reset on collision or falling in water**
+- 🎯 **Score or level progression system**
 
 ---
 
-## 🚀 How to Play / Inspect
+## 🛠 Built With
 
-1. **Clone** the repo  
+- **Unity 2021.3 LTS** (2D)
+- **C# Scripting**
+- Unity **Tilemap** & **Sprite Renderer**
+- Basic **Animator** for player animations
+
+---
+
+## 🚀 How to Play
+
+1. Clone this repo or download ZIP:
    ```bash
-   git clone https://github.com/BlueArcade/Unity-2D-Projects.git
+   git clone https://github.com/BlueArcade/Frogger-Unity2D.git
