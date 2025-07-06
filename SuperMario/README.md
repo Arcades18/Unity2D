@@ -1,28 +1,31 @@
-# Unity2D
-A curated collection of my 2-dimensional Unity games—built with C#, love for pixel-art, and the relentless urge to iterate, experiment, and learn.
-# 🎮 Unity-2D-Projects
+# 🍄 Super Mario Clone (Unity 2D)
 
-Welcome to **Unity-2D-Projects**, the home for every 2-D game I create while mastering Unity’s 2-D tool-set. Each folder is a self-contained project that you can open, study, tweak, and extend.
-
-| Folder | Genre / Theme | Status |
-| ------ | ------------- | ------ |
-| `Bomberman-Clone` | Grid-based arcade action | Complete |
-| `PacMan-Clone` | Maze chase with AI ghosts | Complete |
-
+A 2D platformer inspired by the legendary **Super Mario Bros**, built in Unity with C#.  
+Run, jump, and explore through classic side-scrolling levels while collecting coins and avoiding enemies.
 
 ---
 
-## 🛠  Tech Stack
-* **Unity 2021.3 LTS** (URP 2-D Renderer)
-* **C#** scripting
-* Unity’s Tilemap, Cinemachine, and 2-D Animation packages
-* Git for version control  
-* Aseprite & Photoshop for sprites
+## 🎮 Gameplay Features
+
+- 🏃‍♂️ **Player-controlled character** with smooth movement and jumping
+- 🧱 **Breakable blocks**, **power-ups**, and **coin collection**
+- 🐢 **Enemies** that can be defeated by stomping
+- 🎯 **Score and coin tracking**
 
 ---
 
-## 🚀 How to Play / Inspect
+## 🛠 Built With
 
-1. **Clone** the repo  
+- **Unity 2021.3 LTS** (2D Core Template)
+- **C# scripting**
+- Unity’s **Tilemap** and **2D Physics**
+- **Animator** for character and enemy animations
+- Basic **UI system** for score and coins
+
+---
+
+## 🚀 How to Play
+
+1. Clone this repository or download ZIP:
    ```bash
-   git clone https://github.com/BlueArcade/Unity-2D-Projects.git
+   git clone https://github.com/BlueArcade/SuperMario-Unity2D.git
